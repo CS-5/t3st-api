@@ -1,5 +1,5 @@
 {
-  "name": "cf-workers-base",
+  "name": "t3st-api",
   "version": "1.0.0",
   "private": true,
   "description": "CS-5's base Typescript worker template",
@@ -10,12 +10,13 @@
     "format": "prettier --write '**/*.{ts,js,css,json,md}'",
     "transpile": "tsc --project ./test"
   },
-  "author": "CS-5",
+  "author": "PulseDev",
   "license": "MIT",
   "devDependencies": {
     "@cloudflare/workers-types": "^2.0.0",
     "@types/chai": "^4.2.11",
     "@types/mocha": "^7.0.2",
+    "@types/node": "^16.9.6",
     "@typescript-eslint/eslint-plugin": "^4.11.0",
     "@typescript-eslint/parser": "^4.11.0",
     "chai": "^4.2.0",

@@ -1,7 +1,7 @@
 type = "webpack"
-zone_id = ""
-account_id = ""
-route = ""
+zone_id = "32e2f76c4ca51f635922c3ca9726083b"
+account_id = "257d9994d1e15e8fbeb6053f590ad96b"
+route = "t3st.games/api/*"
 workers_dev = true
 webpack_config = "webpack.config.js"
-name = "cf-workers-base"
+name = "t3st-api"
